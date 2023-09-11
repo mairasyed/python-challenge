@@ -27,7 +27,7 @@
 
 
     2. Project Name
-    The challenge overall is related to Python. It has two parts; the first one being "Pypoll".
+    The challenge overall is related to Python. It has two parts; the second one being "Pypoll".
     
     2.1 Brief Description
     For the "Pypoll" challenge ,we have been provided with a dataset called election_data.csv. It contains three columns called "Voter ID","County" and "Candidate". It requires us to write a script in Python that outputs the total number of votes cast,a complete list of candidates who received votes, the percentage of votes each candidate won, the total number of votes each candidate won and the winner of the election based on the number of votes cast. The challenge also requires that the final code/script should be such that it should both print the analysis to the terminal and export a text file with the results. All in all this project assess our knowledge of Python and writing script in visual basic.
